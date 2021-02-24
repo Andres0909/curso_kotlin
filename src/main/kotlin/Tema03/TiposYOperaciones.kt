@@ -1,3 +1,5 @@
+package Tema03
+
 fun main() {
 
     //Inferencia de tipos
@@ -15,7 +17,7 @@ fun main() {
 
     integer = integer02
 
-   var mosntruosPantall01: Int = 100
+    var mosntruosPantall01: Int = 100
     var moscaVoladoraTriple: Double = 30.00
 
 
