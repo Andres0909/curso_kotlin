@@ -39,7 +39,15 @@ fun main() {
 
     var message = "hello my name is "
     val name = "Joe"
+    val name02 = 20
     message += name
     print(message)
 
+    //String Templates
+
+    message = "Hello my name is $name" //Hello my name is Joe
+
+    val oneThird = 1.0/3.0
+    val oneThirdLongString = "One third is $name02 as a decimal."
+    print(oneThirdLongString)
 }
