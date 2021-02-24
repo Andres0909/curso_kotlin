@@ -50,4 +50,5 @@ fun main() {
     val oneThird = 1.0/3.0
     val oneThirdLongString = "One third is $name02 as a decimal."
     print(oneThirdLongString)
+    //anjdaddada
 }
