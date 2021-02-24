@@ -1,3 +1,0 @@
-C:\Users\tpari\Documents\Projectos curso kotlin\src\main\kotlin\Constantes.kt
-C:\Users\tpari\Documents\Projectos curso kotlin\src\main\kotlin\Variables.kt
-C:\Users\tpari\Documents\Projectos curso kotlin\src\main\kotlin\IncrementDecrement.kt
