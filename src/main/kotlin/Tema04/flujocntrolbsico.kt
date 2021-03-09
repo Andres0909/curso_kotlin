@@ -39,4 +39,9 @@ fun main() {
     val or03 = false || true
     val or04 = true || false
 
+
+    //Igualdad de cadenas
+
+    val guess = "dog"
+    val dogEqualsCat = guess == "cat"
 }

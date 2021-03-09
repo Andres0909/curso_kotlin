@@ -1,3 +1,5 @@
+package Tema02
+
 fun variables() {
     var monstruo: Int = 5
     monstruo = 8

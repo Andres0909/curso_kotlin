@@ -1,3 +1,5 @@
+package Tema02
+
 fun main() {
 
     //Inferencia de tipos
