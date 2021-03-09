@@ -44,4 +44,20 @@ fun main() {
 
     val guess = "dog"
     val dogEqualsCat = guess == "cat"
+
+    val order = "cat" < "dog"
+
+    //La expresion if
+
+    if (2 > 1) {
+        println("Yes, 2 is greater than 1.")
+
+}
+    //La  expresion if/else
+val animal = "Fox"
+    if (animal == "Cat"|| animal == "Dog") {
+    println("Animal is not a house pet")
+    }
+
+
 }
